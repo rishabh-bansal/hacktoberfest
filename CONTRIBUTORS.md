@@ -500,6 +500,11 @@
 - Bio: I am a Machine Learning enthusiast.
 - GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
 
+### Name: [Junaid Choudhary](https://github.com/JustJunaid)
+- Place: New Delhi, India
+- Bio: Web Developer
+- Github: [junaid](https://github.com/JustJunaid)
+
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA
 - Bio: Software Engineer

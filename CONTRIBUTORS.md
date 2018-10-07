@@ -9,6 +9,12 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+#### Name: [GABE DUNN](https://github.com/redxtech)
+- Place: Canada
+- Bio: I love VUE !!
+- GitHub: [Gabe Dunn](https://github.com/redxtech)
+- Website: [when.](https://when.redxte.ch)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
@@ -499,6 +505,11 @@
 - Place: New Delhi, India
 - Bio: I am a Machine Learning enthusiast.
 - GitHub: [vaibhaw2731](https://github.com/vaibhaw2731)
+
+### Name: [Junaid Choudhary](https://github.com/JustJunaid)
+- Place: New Delhi, India
+- Bio: Web Developer
+- Github: [junaid](https://github.com/JustJunaid)
 
 #### Name: [Dhevi Rajendran](https://github.com/dhevi)
 - Place: USA

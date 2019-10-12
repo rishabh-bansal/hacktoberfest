@@ -589,6 +589,11 @@
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
 
+#### Name: [Dhruval Shah](https://github.com/Dhruval10)
+- Place: San Diego, California
+- Bio: Software Engineer
+- GitHub: [dhruval10](https://github.com/dhruval10)
+
 #### Name: [Mayank Saxena](https://github.com/mayank26saxena)
 - Place: New Delhi, India
 - Bio: Student
